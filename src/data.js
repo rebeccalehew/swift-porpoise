@@ -1,60 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Employee Tracker",
+    subtitle: "Content Management System",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A command-line application managing a company's employee database, using Node.js, Inquirer, and MySQL.",
+    link: "https://github.com/rebeccalehew/cheerful-clam",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "E-Commerce App",
+    subtitle: "Backend Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
+      "An app that builds the back end of an e-commerce site by modifying starter code. The app will configure a working Express.js API and use Sequelize to interact with a MySQL database.",
+    image: "./assets/img/project2",
+    link: "https://github.com/rebeccalehew/embellished-crab",
+  }
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
   "Node",
+  "Express.js",
+  "MongoDB",
+  "Mongoose",
   "GraphQL",
-  "Material UI",
+  "MySQL",
+  "NoSQL",
+  "Sequelize",
+  "HTML",
+  "CSS",
+  "Object-Relational Mapping",
+  "Object-Oriented Programming"
 ];
