@@ -4,6 +4,7 @@ export const projects = [
     subtitle: "Content Management System",
     description:
       "A command-line application managing a company's employee database, using Node.js, Inquirer, and MySQL.",
+    image: "./assets/img/project1",
     link: "https://github.com/rebeccalehew/cheerful-clam",
   },
   {
