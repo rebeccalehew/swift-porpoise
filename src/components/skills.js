@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            ...somehow preface or descriinge skills/tools
+            I learned many new skills throughout my bootcamp coursework, and the bulk of my newly acquired skills are listed below. I look forward to continuing to learn and grow as a developer, adding new skills to the list.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
